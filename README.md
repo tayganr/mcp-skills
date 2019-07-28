@@ -1,6 +1,22 @@
 # Microsoft Technical Skills Enablement
 A collection of resources to empower the Microsoft community in driving technical intensity with skills.
 
+## Training and Certification Roadmap
+[![alt text](images/img-training-cert-roadmap.png "Training and Certification Roadmap")](../../raw/master/images/img-training-cert-roadmap.png) 
+
+<div align="right"><a href="#microsoft-partner-technical-skills-enablement">↥ back to top</a></div>
+
+## Technical Skills Plan
+1. Download the **Partner Skills Template** files to your local machine.  
+   * [Excel Spreadsheet](../../raw/master/files/Partner%20Skills%20Template.xlsx) (Data Capture)
+   * [Power BI Template](../../raw/master/files/Partner%20Skills%20Template.pbit) (Report)
+2. Navigate to the **Downloads** directory.  
+[![alt text](images/img-template-downloads-folder.png "Downloads")](../../raw/master/images/img-template-downloads-folder.png) 
+3. 
+
+<div align="right"><a href="#microsoft-partner-technical-skills-enablement">↥ back to top</a></div>
+
+
 ## Ingredients
 * Branded Template
 * Sponsors (Executive, L&D, PDM, PTS)
@@ -14,19 +30,6 @@ A collection of resources to empower the Microsoft community in driving technica
 * Learning Paths (On-Demand, Instructor-Led, Virtual or In-Person)
 
 <div align="right"><a href="#microsoft-partner-technical-skills-enablement">↥ back to top</a></div>
-
-## Training and Certification Roadmap
-[![alt text](images/img-training-cert-roadmap.png "Training and Certification Roadmap")](../../raw/master/images/img-training-cert-roadmap.png) 
-
-<div align="right"><a href="#microsoft-partner-technical-skills-enablement">↥ back to top</a></div>
-
-## Technical Skills Plan
-1. Download the **Partner Skills Template** files to your local machine.  
-   * [Excel Spreadsheet](../../raw/master/files/Partner%20Skills%20Template.xlsx) (Data Capture)
-   * [Power BI Template](../../raw/master/files/Partner%20Skills%20Template.pbit) (Report)
-2. Navigate to the **Downloads** directory.  
-[![alt text](images/img-template-downloads-folder.png "Downloads")](../../raw/master/images/img-template-downloads-folder.png) 
-3. 
 
 ## Resources
 **Microsoft Inspire 2019 (July 14-18, Las Vegas - Nevada)**  
