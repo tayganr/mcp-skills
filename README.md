@@ -14,7 +14,7 @@ A collection of resources to empower the Microsoft community in driving technica
 <div align="right"><a href="#microsoft-partner-technical-skills-enablement">↥ back to top</a></div>
 
 ## Training and Certification Roadmap
-[![alt text](images/img-training-cert-roadmap.png "Alt")](../../../raw/master/images/img-training-cert-roadmap.png) 
+[![alt text](images/img-training-cert-roadmap.png "Alt")](../../raw/master/images/img-training-cert-roadmap.png) 
 
 <div align="right"><a href="#microsoft-partner-technical-skills-enablement">↥ back to top</a></div>
 
