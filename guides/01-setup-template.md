@@ -1,3 +1,5 @@
+[README](../README.md) > [1. Initialize Template](./01-setup-template.md) > [2. Export to PDF](./02-export-pdf.md) > [3. Partner Info](./03-update-partner.md) > [4. Competencies](./04-update-competencies.md) > [5. Targets](./05-update-targets.md) > [6. Tracker](./06-update-tracker.md) > [7. Training](./07-update-training.md) 
+
 # Guide 1 - Initialize Template
 
 ## Step 1 - Download the Template Files
