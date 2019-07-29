@@ -23,7 +23,7 @@
 [![alt text](../images/img-template-delete-quotes.png "Downloads")](../../../raw/master/images/img-template-delete-quotes.png) 
 4. Once the report has loaded, click the **Save** icon  
 [![alt text](../images/img-template-save-pbix.png "Downloads")](../../../raw/master/images/img-template-save-pbix.png) 
-5. Provide the file a name (e.g. Technical Skills Plan) and click **Save**  
+5. Provide a file name (e.g. Technical Skills Plan) and click **Save**  
 [![alt text](../images/img-template-save-dialog.png "Downloads")](../../../raw/master/images/img-template-save-dialog.png) 
 
 Congratulations! You have just created an instance of a technical skills plan from the Power BI template. This instance of the skills plan is connected to the underlying spreadsheet. Any changes in the data will be reflected in the report.
