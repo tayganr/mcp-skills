@@ -27,7 +27,7 @@
 | Effort | 2 hr 50 min |
 | Modules | 9 |
 | Level | Beginner (100) |
-| Trophy | <img src="../images/badge-s1-m365.png" alt="Learn the Business Value of Azure" width="50px">  |
+| Trophy | <img src="../images/badge-s1-m365.png" alt="Modernize your workplace with Microsoft 365 and Surface for Business" width="50px">  |
 
 <div align="right"><a href="#sales-generalist">↥ back to top</a></div>
 

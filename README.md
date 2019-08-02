@@ -14,14 +14,14 @@ A collection of resources to empower the Microsoft community in driving technica
 
 ## Learning Paths
 **Sales**
-* [Sales Generalist](paths/sales-generalist.md)
-* [Sales Specialist (Fundamentals)](paths/sales-specialist.md)
+* L100 - [Sales Generalist](paths/sales-generalist.md)
+* L200 - [Sales Specialist](paths/sales-specialist.md)
 
 **Technical**
-* [Azure](paths/technical-azure.md)
-* [Data & AI](paths/technical-data-ai.md)
-* [Modern Workplace](paths/technical-modern-workplace.md)
-* [Business Applications](paths/technical-business-apps.md)
+* L300/400 - [Azure](paths/technical-azure.md)
+* L300/400 - [Data & AI](paths/technical-data-ai.md)
+* L300/400 - [Modern Workplace](paths/technical-modern-workplace.md)
+* L300/400 - [Business Applications](paths/technical-business-apps.md)
 
 <div align="right"><a href="#microsoft-partner-technical-skills-enablement">↥ back to top</a></div>
 
