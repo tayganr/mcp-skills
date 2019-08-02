@@ -17,6 +17,18 @@ A collection of resources to empower the Microsoft community in driving technica
 
 <div align="right"><a href="#microsoft-partner-technical-skills-enablement">↥ back to top</a></div>
 
+## Learning Paths
+**Sales**
+* [Sales Generalist](paths/sales-generlist.md)
+* [Sales Specialist (Fundamentals)](paths/sales-specialist.md)
+
+**Technical**
+* [Azure](paths/technical-azure.md)
+* [Data & AI](paths/technical-data-ai.md)
+* [Modern Workplace](paths/technical-modern-workplace.md)
+* [Business Applications](paths/technical-business-apps.md)
+
+<div align="right"><a href="#microsoft-partner-technical-skills-enablement">↥ back to top</a></div>
 
 ## Ingredients
 * Branded Template
