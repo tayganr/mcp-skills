@@ -1,12 +1,13 @@
 # Technical - Azure
 
 ## Table of Contents
-* [AZ-103: Microsoft Azure Administrator](#azure)
-* [AZ-203: Developing Solutions for Microsoft Azure](#microsoft-365)
-* [AZ-300: Microsoft Azure Architect Technologies](#dynamics-365)
-* [AZ-301: Microsoft Azure Architect Design]()
-* [AZ-400: Microsoft Azure DevOps Solutions]()
-* [AZ-500: Microsoft Azure Security Technologies]()
+* [AZ-103: Microsoft Azure Administrator](#az-103-microsoft-azure-administrator)
+* [AZ-203: Developing Solutions for Microsoft Azure](#az-203-developing-solutions-for-microsoft-azure)
+* [AZ-300: Microsoft Azure Architect Technologies](#az-300-microsoft-azure-architect-technologies)
+* [AZ-301: Microsoft Azure Architect Design](#az-301-microsoft-azure-architect-design)
+* [AZ-400: Microsoft Azure DevOps Solutions](#az-400-microsoft-azure-devops-solutions)
+* [AZ-500: Microsoft Azure Security Technologies](#az-500-microsoft-azure-security-technologies)
+* [AZ-900: Microsoft Azure Fundamentals](#az-900-microsoft-azure-fundamentals)
 
 <div align="right"><a href="#technical---azure">↥ back to top</a></div>
 
