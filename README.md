@@ -19,7 +19,7 @@ A collection of resources to empower the Microsoft community in driving technica
 
 ## Learning Paths
 **Sales**
-* [Sales Generalist](paths/sales-generlist.md)
+* [Sales Generalist](paths/sales-generalist.md)
 * [Sales Specialist (Fundamentals)](paths/sales-specialist.md)
 
 **Technical**
