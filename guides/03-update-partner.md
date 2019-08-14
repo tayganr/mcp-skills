@@ -1,1 +1,0 @@
-# Guide 3 - Update Partner Information

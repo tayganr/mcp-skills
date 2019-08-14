@@ -1,1 +1,0 @@
-# Guide 4 - Update Technical Competencies
