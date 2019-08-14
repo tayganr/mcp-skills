@@ -15,7 +15,7 @@
 <div align="right"><a href="#guide-1---initialize-template">↥ back to top</a></div>
 
 ## Step 1 - Download the Template Files
-1. Download the **Partner Skills Template** files to your local machine.  
+1. Download the **Partner Skills Template** files to your local machine by clicking the links below.  
    * [Excel Spreadsheet](../../../raw/master/files/Partner%20Skills%20Template.xlsx) (Data Capture)
    * [Power BI Template](../../../raw/master/files/Partner%20Skills%20Template.pbit) (Report)
 
