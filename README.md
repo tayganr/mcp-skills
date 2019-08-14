@@ -7,7 +7,7 @@ A collection of resources to empower the Microsoft community in driving technica
 <div align="right"><a href="#microsoft-partner-technical-skills-enablement">↥ back to top</a></div>
 
 
-## Technical Skills Plan
+## Instructions
 * [Initialize Template](guides/01-setup-template.md)
 
 <div align="right"><a href="#microsoft-partner-technical-skills-enablement">↥ back to top</a></div>
@@ -52,6 +52,7 @@ A collection of resources to empower the Microsoft community in driving technica
 * [Worldwide Learning partner opportunity: Aligning for success](https://myinspire.microsoft.com/sessions/78e45cba-2705-4701-8235-b4c554678eab)
 
 **Other**
+* [UK Partner Skills Hub](https://partner.microsoft.com/en-gb/training/partnerskills)
 * [Recruit, Hire, Onboard, and Retain Talent Playbook](https://partner.microsoft.com/en-us/campaigns/recruit-hire-onboard-playbook)
 * [Microsoft Learn](https://aka.ms/learn)
 * [Training and Certification Guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ)
