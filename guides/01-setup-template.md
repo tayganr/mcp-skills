@@ -63,21 +63,21 @@
 
 ## Step 8 - Copy the Excel Spreadsheet File Path
 1. Navigate to the **Downloads** directory.  
-[![alt text](../images/img-template-downloads-folder.png "Downloads")](../../../raw/master/images/img-template-downloads-folder.png) 
+[![alt text](../images/img-template-downloads-folder.png "Downloads Folder")](../../../raw/master/images/img-template-downloads-folder.png) 
 2. While holding down the **SHIFT** key, right-click on the selected file and click **Copy as path**.  
-[![alt text](../images/img-template-copy-path.png "Downloads")](../../../raw/master/images/img-template-copy-path.png) 
+[![alt text](../images/img-template-copy-path.png "Copy Path")](../../../raw/master/images/img-template-copy-path.png) 
 
 <div align="right"><a href="#guide-1---initialize-template">↥ back to top</a></div>
 
 ## Step 9 - Initialize the Power BI Template
-1. Open the Power BI template (**Partner Skills Template.pbit**) by double clicking the file  
-[![alt text](../images/img-template-open-pbit.png "Downloads")](../../../raw/master/images/img-template-open-pbit.png) 
-2. Paste the path into **Data source location**  
-[![alt text](../images/img-template-paste-path.png "Downloads")](../../../raw/master/images/img-template-paste-path.png) 
-3. Once the report has loaded, click the **Save** icon  
-[![alt text](../images/img-template-save-pbix.png "Downloads")](../../../raw/master/images/img-template-save-pbix.png) 
-5. Provide a file name (e.g. Technical Skills Plan) and click **Save**  
-[![alt text](../images/img-template-save-dialog.png "Downloads")](../../../raw/master/images/img-template-save-dialog.png) 
+1. Open the Power BI template (**Partner Skills Template.pbit**) by double clicking the file.  
+[![alt text](../images/img-template-open-pbit.png "Open Power BI Template")](../../../raw/master/images/img-template-open-pbit.png) 
+2. Paste the path into **Data source location** and click **Load**.  
+[![alt text](../images/img-template-paste-path.png "Template Parameter")](../../../raw/master/images/img-template-paste-path.png) 
+3. Once the report has loaded, click the **Save** icon.  
+[![alt text](../images/img-template-save-pbix.png "Save PBIX")](../../../raw/master/images/img-template-save-pbix.png) 
+5. Provide a file name (e.g. Technical Skills Plan) and click **Save**.  
+[![alt text](../images/img-template-save-dialog.png "Save Dialog")](../../../raw/master/images/img-template-save-dialog.png) 
 
 <div align="right"><a href="#guide-1---initialize-template">↥ back to top</a></div>
 
