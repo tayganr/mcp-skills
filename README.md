@@ -33,7 +33,7 @@ A collection of resources to empower the Microsoft community in driving technica
 
 <div align="right"><a href="#microsoft-technical-skills-enablement">↥ back to top</a></div>
 
-## Training and Certification Roadmap
+## Role-Based Certification Overview
 [![alt text](images/img-training-cert-roadmap.png "Training and Certification Roadmap")](../../raw/master/images/img-training-cert-roadmap.png) 
 
 <div align="right"><a href="#microsoft-technical-skills-enablement">↥ back to top</a></div>
