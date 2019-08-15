@@ -35,6 +35,9 @@ Before you begin, please ensure you have the ***latest*** version of Microsoft P
 2. Open the spreadsheet by double-clicking the file or right-click the file and click **Open**.  
 [![alt text](../images/img-template-open-xlsx.png "Open File")](../../../raw/master/images/img-template-open-xlsx.png) 
 
+3. Click the **Enable Editing** button at the top of the spreadsheet.
+[![alt text](../images/img-template-enable-editing.png "Enable Editing")](../../../raw/master/images/img-template-enable-editing.png) 
+
 <div align="right"><a href="#how-to-create-a-technical-skills-plan">↥ back to top</a></div>
 
 ## Step 3 - Update Worksheet: Partner
