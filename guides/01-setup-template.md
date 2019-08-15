@@ -1,5 +1,11 @@
 # Guide 1 - Initialize Template
 
+## Prerequisites
+Before you begin, please ensure you have the ***latest*** version of Microsoft Power BI Desktop installed on your local machine.
+* [Microsoft Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=45331)
+
+<div align="right"><a href="#microsoft-partner-technical-skills-enablement">↥ back to top</a></div>
+
 ## Table of Contents
 * [01 - Download the Template Files](#step-1---download-the-template-files)
 * [02 - Open the Excel Spreadsheet](#step-2---open-the-excel-spreadsheet)
@@ -23,7 +29,9 @@
 
 ## Step 2 - Open the Excel Spreadsheet
 1. Navigate to the folder in which you have saved the files (e.g. **Downloads**).  
-[![alt text](../images/img-template-downloads-folder.png "Downloads")](../../../raw/master/images/img-template-downloads-folder.png) 
+[![alt text](../images/img-template-downloads-folder.png "Downloads")](../../../raw/master/images/img-template-downloads-folder.png)  
+**Tip**: Create a copy of the Excel Spreadsheet to retain an empty version for future use (e.g. Technical Skills Plan - Contoso.xlsx).  
+
 2. Open the spreadsheet by double-clicking the file or right-click the file and click **Open**.  
 [![alt text](../images/img-template-open-xlsx.png "Open File")](../../../raw/master/images/img-template-open-xlsx.png) 
 
@@ -93,6 +101,6 @@
 
 Congratulations! You have just created an instance of a technical skills plan from the Power BI template and exported a PDF. This instance of the skills plan is connected to the underlying spreadsheet. Any changes in the data will be reflected in the report.
 
-Note: If you wanted to create another skills plan, repeat the steps above with the exception of downloading the Power BI Template (pbit) file as this would already be in your Downloads folder.
+Note: If you wanted to create another skills plan, create a copy of the empty spreadsheet template, open the copy, and resume from Step 3.
 
 <div align="right"><a href="#guide-1---initialize-template">↥ back to top</a></div>
