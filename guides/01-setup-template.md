@@ -4,7 +4,7 @@
 Before you begin, please ensure you have the ***latest*** version of Microsoft Power BI Desktop installed on your local machine.
 * [Microsoft Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=45331)
 
-<div align="right"><a href="#guide-1---initialize-template">↥ back to top</a></div>
+<div align="right"><a href="#how-to-create-a-technical-skills-plan">↥ back to top</a></div>
 
 ## Table of Contents
 * [01 - Download the Template Files](#step-1---download-the-template-files)
@@ -18,14 +18,14 @@ Before you begin, please ensure you have the ***latest*** version of Microsoft P
 * [09 - Initialize the Power BI Template](#step-9---initialize-power-bi-template)
 * [10 - Export a PDF](#step-10---export-a-pdf)
 
-<div align="right"><a href="#guide-1---initialize-template">↥ back to top</a></div>
+<div align="right"><a href="#how-to-create-a-technical-skills-plan">↥ back to top</a></div>
 
 ## Step 1 - Download the Template Files
 1. Download the **Partner Skills Template** files to your local machine by clicking the links below.  
    * [Excel Spreadsheet](../../../raw/master/files/Partner%20Skills%20Template.xlsx) (Data Capture)
    * [Power BI Template](../../../raw/master/files/Partner%20Skills%20Template.pbit) (Report)
 
-<div align="right"><a href="#guide-1---initialize-template">↥ back to top</a></div>
+<div align="right"><a href="#how-to-create-a-technical-skills-plan">↥ back to top</a></div>
 
 ## Step 2 - Open the Excel Spreadsheet
 1. Navigate to the folder in which you have saved the files (e.g. **Downloads**).  
@@ -35,31 +35,31 @@ Before you begin, please ensure you have the ***latest*** version of Microsoft P
 2. Open the spreadsheet by double-clicking the file or right-click the file and click **Open**.  
 [![alt text](../images/img-template-open-xlsx.png "Open File")](../../../raw/master/images/img-template-open-xlsx.png) 
 
-<div align="right"><a href="#guide-1---initialize-template">↥ back to top</a></div>
+<div align="right"><a href="#how-to-create-a-technical-skills-plan">↥ back to top</a></div>
 
 ## Step 3 - Update Worksheet: Partner
 1. Navigate to the first worksheet (1. Partner) and populate the highlighted cells.  
 [![alt text](../images/img-template-update-partner.png "Partner")](../../../raw/master/images/img-template-update-partner.png) 
 
-<div align="right"><a href="#guide-1---initialize-template">↥ back to top</a></div>
+<div align="right"><a href="#how-to-create-a-technical-skills-plan">↥ back to top</a></div>
 
 ## Step 4 - Update Worksheet: Competencies
 1. Navigate to the second worksheet (2. Competencies) and populate the highlighted cells.  
 [![alt text](../images/img-template-update-competencies.png "Competencies")](../../../raw/master/images/img-template-update-competencies.png) 
 
-<div align="right"><a href="#guide-1---initialize-template">↥ back to top</a></div>
+<div align="right"><a href="#how-to-create-a-technical-skills-plan">↥ back to top</a></div>
 
 ## Step 5 - Update Worksheet: Business Unit
 1. Navigate to the third worksheet (3. Business Unit) and populate the highlighted cells.  
 [![alt text](../images/img-template-update-business.png "Business Units")](../../../raw/master/images/img-template-update-business.png) 
 
-<div align="right"><a href="#guide-1---initialize-template">↥ back to top</a></div>
+<div align="right"><a href="#how-to-create-a-technical-skills-plan">↥ back to top</a></div>
 
 ## Step 6 - Update Worksheet: Tracker
 1. Navigate to the fourth worksheet (4. Tracker) and populate the highlighted cells.  
 [![alt text](../images/img-template-update-tracker.png "Tracker")](../../../raw/master/images/img-template-update-tracker.png) 
 
-<div align="right"><a href="#guide-1---initialize-template">↥ back to top</a></div>
+<div align="right"><a href="#how-to-create-a-technical-skills-plan">↥ back to top</a></div>
 
 ## Step 7 - Save and Close the Excel Spreadsheet
 1. Click the **Save** icon located in the top left hand corner of the window.  
@@ -67,7 +67,7 @@ Before you begin, please ensure you have the ***latest*** version of Microsoft P
 2. Click the **Close** icon located in the top right hand corner of the window.  
 [![alt text](../images/img-template-close-xlsx.png "Close")](../../../raw/master/images/img-template-close-xlsx.png) 
 
-<div align="right"><a href="#guide-1---initialize-template">↥ back to top</a></div>
+<div align="right"><a href="#how-to-create-a-technical-skills-plan">↥ back to top</a></div>
 
 ## Step 8 - Copy the Excel Spreadsheet File Path
 1. Navigate to the **Downloads** directory.  
@@ -75,7 +75,7 @@ Before you begin, please ensure you have the ***latest*** version of Microsoft P
 2. While holding down the **SHIFT** key, right-click on the selected file and click **Copy as path**.  
 [![alt text](../images/img-template-copy-path.png "Copy Path")](../../../raw/master/images/img-template-copy-path.png) 
 
-<div align="right"><a href="#guide-1---initialize-template">↥ back to top</a></div>
+<div align="right"><a href="#how-to-create-a-technical-skills-plan">↥ back to top</a></div>
 
 ## Step 9 - Initialize the Power BI Template
 1. Open the Power BI template (**Partner Skills Template.pbit**) by double clicking the file.  
@@ -87,7 +87,7 @@ Before you begin, please ensure you have the ***latest*** version of Microsoft P
 5. Provide a file name (e.g. Technical Skills Plan) and click **Save**.  
 [![alt text](../images/img-template-save-dialog.png "Save Dialog")](../../../raw/master/images/img-template-save-dialog.png) 
 
-<div align="right"><a href="#guide-1---initialize-template">↥ back to top</a></div>
+<div align="right"><a href="#how-to-create-a-technical-skills-plan">↥ back to top</a></div>
 
 ## Step 10 - Export a PDF
 1. Click **File** located in the top left hand corner of the window and click **Export to PDF**.   
@@ -103,4 +103,4 @@ Congratulations! You have just created an instance of a technical skills plan fr
 
 Note: If you wanted to create another skills plan, create a copy of the empty spreadsheet template, open the copy, and resume from Step 3.
 
-<div align="right"><a href="#guide-1---initialize-template">↥ back to top</a></div>
+<div align="right"><a href="#how-to-create-a-technical-skills-plan">↥ back to top</a></div>
