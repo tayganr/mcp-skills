@@ -1,10 +1,10 @@
-# Guide 1 - Initialize Template
+# How to Create a Technical Skills Plan
 
 ## Prerequisites
 Before you begin, please ensure you have the ***latest*** version of Microsoft Power BI Desktop installed on your local machine.
 * [Microsoft Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=45331)
 
-<div align="right"><a href="#microsoft-partner-technical-skills-enablement">↥ back to top</a></div>
+<div align="right"><a href="#guide-1---initialize-template">↥ back to top</a></div>
 
 ## Table of Contents
 * [01 - Download the Template Files](#step-1---download-the-template-files)
