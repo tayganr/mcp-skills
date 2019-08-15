@@ -22,7 +22,7 @@
 <div align="right"><a href="#guide-1---initialize-template">↥ back to top</a></div>
 
 ## Step 2 - Open the Excel Spreadsheet
-1. Navigate to the **Downloads** directory.  
+1. Navigate to the folder in which you have saved the files (e.g. **Downloads**).  
 [![alt text](../images/img-template-downloads-folder.png "Downloads")](../../../raw/master/images/img-template-downloads-folder.png) 
 2. Open the spreadsheet by double-clicking the file or right-click the file and click **Open**.  
 [![alt text](../images/img-template-open-xlsx.png "Open File")](../../../raw/master/images/img-template-open-xlsx.png) 
