@@ -1,11 +1,10 @@
 # Microsoft Technical Skills Enablement
 A collection of resources to empower the Microsoft community in driving technical intensity with skills.
 
-
 ## Instructions
 * [Create a Technical Skills Plan](guides/01-setup-template.md)
 
-<div align="right"><a href="#microsoft-partner-technical-skills-enablement">↥ back to top</a></div>
+<div align="right"><a href="#microsoft-technical-skills-enablement">↥ back to top</a></div>
 
 ## Learning Paths
 **Sales**
@@ -18,7 +17,7 @@ A collection of resources to empower the Microsoft community in driving technica
 * L300/400 - [Modern Workplace](https://aka.ms/skills-plan/mw)
 * L300/400 - [Business Applications](https://aka.ms/skills-plan/ba)
 
-<div align="right"><a href="#microsoft-partner-technical-skills-enablement">↥ back to top</a></div>
+<div align="right"><a href="#microsoft-technical-skills-enablement">↥ back to top</a></div>
 
 ## Ingredients
 * Branded Template
@@ -32,12 +31,12 @@ A collection of resources to empower the Microsoft community in driving technica
 * Leaderboard
 * Learning Paths (On-Demand, Instructor-Led, Virtual or In-Person)
 
-<div align="right"><a href="#microsoft-partner-technical-skills-enablement">↥ back to top</a></div>
+<div align="right"><a href="#microsoft-technical-skills-enablement">↥ back to top</a></div>
 
 ## Training and Certification Roadmap
 [![alt text](images/img-training-cert-roadmap.png "Training and Certification Roadmap")](../../raw/master/images/img-training-cert-roadmap.png) 
 
-<div align="right"><a href="#microsoft-partner-technical-skills-enablement">↥ back to top</a></div>
+<div align="right"><a href="#microsoft-technical-skills-enablement">↥ back to top</a></div>
 
 ## Resources
 **Microsoft Inspire 2019 (July 14-18, Las Vegas - Nevada)**  
@@ -53,4 +52,4 @@ A collection of resources to empower the Microsoft community in driving technica
 * [Training and Certification Guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ)
 * [Training and Certification Poster](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)
 
-<div align="right"><a href="#microsoft-partner-technical-skills-enablement">↥ back to top</a></div>
+<div align="right"><a href="#microsoft-technical-skills-enablement">↥ back to top</a></div>
