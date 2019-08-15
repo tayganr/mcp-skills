@@ -1,14 +1,9 @@
 # Microsoft Technical Skills Enablement
 A collection of resources to empower the Microsoft community in driving technical intensity with skills.
 
-## Prerequisites
-* [Microsoft Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=45331) (Download and Install)
-
-<div align="right"><a href="#microsoft-partner-technical-skills-enablement">↥ back to top</a></div>
-
 
 ## Instructions
-* [Initialize Template](guides/01-setup-template.md)
+* [Create a Technical Skills Plan](guides/01-setup-template.md)
 
 <div align="right"><a href="#microsoft-partner-technical-skills-enablement">↥ back to top</a></div>
 
