@@ -6,6 +6,12 @@ Before you begin, please ensure you have the ***latest*** version of Microsoft P
 
 <div align="right"><a href="#how-to-create-a-technical-skills-plan">↥ back to top</a></div>
 
+## Completed Sample
+Click the link below to download a completed example of a Technical Skills Plan for Contoso Ltd (a fictitious company).
+* [Technical Skills Plan - Contoso.pdf](../../../raw/master/files/Technical%20Skills%20Plan%20-%20Contoso.pdf)
+
+<div align="right"><a href="#how-to-create-a-technical-skills-plan">↥ back to top</a></div>
+
 ## Table of Contents
 * [01 - Download the Template Files](#step-1---download-the-template-files)
 * [02 - Open the Excel Spreadsheet](#step-2---open-the-excel-spreadsheet)
@@ -35,7 +41,7 @@ Before you begin, please ensure you have the ***latest*** version of Microsoft P
 2. Open the spreadsheet by double-clicking the file or right-click the file and click **Open**.  
 [![alt text](../images/img-template-open-xlsx.png "Open File")](../../../raw/master/images/img-template-open-xlsx.png) 
 
-3. Click the **Enable Editing** button at the top of the spreadsheet.
+3. Click the **Enable Editing** button at the top of the spreadsheet.  
 [![alt text](../images/img-template-enable-editing.png "Enable Editing")](../../../raw/master/images/img-template-enable-editing.png) 
 
 <div align="right"><a href="#how-to-create-a-technical-skills-plan">↥ back to top</a></div>
