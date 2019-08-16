@@ -79,7 +79,7 @@ Click the link below to download a completed example of a Technical Skills Plan 
 <div align="right"><a href="#how-to-create-a-technical-skills-plan">↥ back to top</a></div>
 
 ## Step 8 - Copy the Excel Spreadsheet File Path
-1. Navigate to directory which contains the Excel spreadsheet, While holding down the **SHIFT** key, right-click on the selected file and click **Copy as path**.  
+1. Navigate to directory which contains the Excel spreadsheet, while holding down the **SHIFT** key, right-click on the selected file and click **Copy as path**.  
 [![alt text](../images/img-template-copy-path.png "Copy Path")](../../../raw/master/images/img-template-copy-path.png) 
 
 <div align="right"><a href="#how-to-create-a-technical-skills-plan">↥ back to top</a></div>
