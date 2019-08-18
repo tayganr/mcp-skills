@@ -22,7 +22,7 @@
 | Related Certification | [Microsoft 365 Certified: Modern Desktop Administrator Associate](https://www.microsoft.com/en-us/learning/modern-desktop.aspx) |
 | Level | Associate (300) |
 | Training | <ol><li><a href="https://aka.ms/elms-MD-100.1-about">Open edX 100.1</a></li><li><a href="https://aka.ms/elms-MD-100.2-about">Open edX 100.2</a></li><li><a href="https://aka.ms/elms-MD-100.3-about">Open edX 100.3</a></li><li><a href="https://aka.ms/elms-MD-100.4-about">Open edX 100.4</a></li></ol> |
-| Badge | <img src="../images/badge-m365-.png" alt="M365 Modern Desktop Administrator Associate" width="100px">  |
+| Badge | <img src="../images/badge-m365-modern-desktop-administrator.png" alt="M365 Modern Desktop Administrator Associate" width="100px">  |
 
 <div align="right"><a href="#technical---modern-workplace">↥ back to top</a></div>
 
@@ -34,7 +34,7 @@
 | Related Certification | [Microsoft 365 Certified: Modern Desktop Administrator Associate]() |
 | Level | Associate (300) |
 | Training | <ol><li><a href="https://aka.ms/elms-MD-101.1-about">Open edX 101.1</a></li><li><a href="https://aka.ms/elms-MD-101.2-about">Open edX 101.2</a></li><li><a href="https://aka.ms/elms-MD-101.3-about">Open edX 101.3</a></li></ol> |
-| Badge | <img src="../images/badge-m365-.png" alt="M365 Modern Desktop Administrator Associate" width="100px">  |
+| Badge | <img src="../images/badge-m365-modern-desktop-administrator.png" alt="M365 Modern Desktop Administrator Associate" width="100px">  |
 
 <div align="right"><a href="#technical---modern-workplace">↥ back to top</a></div>
 
@@ -46,7 +46,7 @@
 | Related Certification | [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/en-us/learning/m365-enterprise-administrator.aspx) |
 | Level | Expert (400) |
 | Training | <ol><li><a href="https://aka.ms/elms-MS-100.1-about">Open edX 100.1</a></li><li><a href="https://aka.ms/elms-MS-100.2-about">Open edX 100.2</a></li><li><a href="https://aka.ms/elms-MS-100.3-about">Open edX 100.3</a></li></ol> |
-| Badge | <img src="../images/badge-m365-.png" alt="M365 Enterprise Administrator Expert" width="100px">  |
+| Badge | <img src="../images/badge-m365-enterprise-administrator.png" alt="M365 Enterprise Administrator Expert" width="100px">  |
 
 <div align="right"><a href="#technical---modern-workplace">↥ back to top</a></div>
 
@@ -58,7 +58,7 @@
 | Related Certification | [Microsoft 365 Certified: Enterprise Administrator Expert]() |
 | Level | Expert (400) |
 | Training | <ol><li><a href="https://aka.ms/elms-MS-101.1-about">Open edX 101.1</a></li><li><a href="https://aka.ms/elms-MS-101.1-about">Open edX 101.2</a></li><li><a href="https://aka.ms/elms-MS-101.1-about">Open edX 101.3</a></li></ol> |
-| Badge | <img src="../images/badge-m365-.png" alt="M365 Enterprise Administrator Expert" width="100px">  |
+| Badge | <img src="../images/badge-m365-enterprise-administrator.png" alt="M365 Enterprise Administrator Expert" width="100px">  |
 
 <div align="right"><a href="#technical---modern-workplace">↥ back to top</a></div>
 
@@ -70,7 +70,7 @@
 | Related Certification | [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/en-us/learning/m365-messaging-administrator.aspx) |
 | Level | Associate (300) |
 | Training | <ol><li><a href="https://aka.ms/elms-MS-200.1-about">Open edX 200.1</a></li><li><a href="https://aka.ms/elms-MS-200.2-about">Open edX 200.2</a></li><li><a href="https://aka.ms/elms-MS-200.3-about">Open edX 200.3</a></li></ol> |
-| Badge | <img src="../images/badge-m365-.png" alt="M365 Messaging Administrator Associate" width="100px">  |
+| Badge | <img src="../images/badge-m365-messaging-administrator.png" alt="M365 Messaging Administrator Associate" width="100px">  |
 
 <div align="right"><a href="#technical---modern-workplace">↥ back to top</a></div>
 
@@ -82,7 +82,7 @@
 | Related Certification | [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/en-us/learning/m365-messaging-administrator.aspx) |
 | Level | Associate (300) |
 | Training | <ol><li><a href="https://aka.ms/elms-MS-201.1-about">Open edX 201.1</a></li><li><a href="https://aka.ms/elms-MS-201.2-about">Open edX 201.2</a></li></ol> |
-| Badge | <img src="../images/badge-m365-.png" alt="M365 Messaging Administrator Associate" width="100px">  |
+| Badge | <img src="../images/badge-m365-messaging-administrator.png" alt="M365 Messaging Administrator Associate" width="100px">  |
 
 <div align="right"><a href="#technical---modern-workplace">↥ back to top</a></div>
 
@@ -94,7 +94,7 @@
 | Related Certification | [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/en-us/learning/m365-teamwork-administrator.aspx) |
 | Level | Associate (300) |
 | Training | <ol><li><a href="https://aka.ms/elms-MS-300.1-about">Open edX 300.1</a></li><li><a href="https://aka.ms/elms-MS-300.2-about">Open edX 300.2</a></li><li><a href="https://aka.ms/elms-MS-300.3-about">Open edX 300.3</a></li><li><a href="https://aka.ms/elms-MS-300.4-about">Open edX 300.4</a></li></ol> |
-| Badge | <img src="../images/badge-m365-.png" alt="M365 Teamwork Administrator Associate" width="100px">  |
+| Badge | <img src="../images/badge-m365-teamwork-administrator.png" alt="M365 Teamwork Administrator Associate" width="100px">  |
 
 <div align="right"><a href="#technical---modern-workplace">↥ back to top</a></div>
 
@@ -106,7 +106,7 @@
 | Related Certification | [Microsoft 365 Certified: Teamwork Administrator Associate]() |
 | Level | Associate (300) |
 | Training | <ol><li><a href="https://aka.ms/elms-MS-301.1-about">Open edX 301.1</a></li><li><a href="https://aka.ms/elms-MS-301.2-about">Open edX 301.2</a></li><li><a href="https://aka.ms/elms-MS-301.3-about">Open edX 301.3</a></li><li><a href="https://aka.ms/elms-MS-301.4-about">Open edX 301.4</a></li></ol> |
-| Badge | <img src="../images/badge-m365-.png" alt="M365 Teamwork Administrator Associate" width="100px">  |
+| Badge | <img src="../images/badge-m365-teamwork-administrator.png" alt="M365 Teamwork Administrator Associate" width="100px">  |
 
 <div align="right"><a href="#technical---modern-workplace">↥ back to top</a></div>
 
@@ -118,7 +118,7 @@
 | Related Certification | [Microsoft 365 Certified: Security Administrator Associate](https://www.microsoft.com/en-us/learning/m365-security-administrator.aspx) |
 | Level | Associate (300) |
 | Training | <ol><li><a href="https://aka.ms/elms-MS-500.1-about">Open edX 500.1</a></li><li><a href="https://aka.ms/elms-MS-500.2-about">Open edX 500.2</a></li><li><a href="https://aka.ms/elms-MS-500.3-about">Open edX 500.3</a></li><li><a href="https://aka.ms/elms-MS-500.4-about">Open edX 500.4</a></li></ol> |
-| Badge | <img src="../images/badge-m365-.png" alt="M365 Security Administrator Associate" width="100px">  |
+| Badge | <img src="../images/badge-m365-security-administrator.png" alt="M365 Security Administrator Associate" width="100px">  |
 
 
 
