@@ -10,7 +10,6 @@
 * [MB-310: Microsoft Dynamics 365 for Finance and Operations, Financials](#mb-310-microsoft-dynamics-365-for-finance-and-operations-financials)
 * [MB-320: Microsoft Dynamics 365 for Finance and Operations, Manufacturing](#mb-320-microsoft-dynamics-365-for-finance-and-operations-manufacturing)
 * [MB-330: Microsoft Dynamics 365 for Finance and Operations, Supply Chain Management](#mb-330-microsoft-dynamics-365-for-finance-and-operations-supply-chain-management)
-* [MB-900: Microsoft Dynamics 365 Fundamentals](#mb-900-microsoft-dynamics-365-fundamentals)
 
 <div align="right"><a href="#technical---business-applications">↥ back to top</a></div>
 

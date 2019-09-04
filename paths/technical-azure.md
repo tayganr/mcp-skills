@@ -7,7 +7,6 @@
 * [AZ-301: Microsoft Azure Architect Design](#az-301-microsoft-azure-architect-design)
 * [AZ-400: Microsoft Azure DevOps Solutions](#az-400-microsoft-azure-devops-solutions)
 * [AZ-500: Microsoft Azure Security Technologies](#az-500-microsoft-azure-security-technologies)
-* [AZ-900: Microsoft Azure Fundamentals](#az-900-microsoft-azure-fundamentals)
 
 <div align="right"><a href="#technical---azure">↥ back to top</a></div>
 

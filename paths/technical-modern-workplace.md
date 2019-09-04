@@ -10,7 +10,6 @@
 * [MS-300: Deploying Microsoft 365 Teamwork](#ms-300-deploying-microsoft-365-teamwork)
 * [MS-301: Deploying SharePoint Server Hybrid](#ms-301-deploying-sharepoint-server-hybrid)
 * [MS-500: Microsoft 365 Security Administration](#ms-500-microsoft-365-security-administration)
-* [MS-900: Microsoft 365 Fundamentals](#ms-900-microsoft-365-fundamentals)
 
 <div align="right"><a href="#technical---modern-workplace">↥ back to top</a></div>
 
