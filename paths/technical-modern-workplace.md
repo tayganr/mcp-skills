@@ -120,19 +120,4 @@
 | Training | <ol><li><a href="https://aka.ms/elms-MS-500.1-about">Open edX 500.1</a></li><li><a href="https://aka.ms/elms-MS-500.2-about">Open edX 500.2</a></li><li><a href="https://aka.ms/elms-MS-500.3-about">Open edX 500.3</a></li><li><a href="https://aka.ms/elms-MS-500.4-about">Open edX 500.4</a></li></ol> |
 | Badge | <img src="../images/badge-m365-security-administrator.png" alt="M365 Security Administrator Associate" width="100px">  |
 
-
-
-
-<div align="right"><a href="#technical---modern-workplace">↥ back to top</a></div>
-
-## MS-900: Microsoft 365 Fundamentals
-
-| Key | Value |
-| ------------- | ------------- |
-| Exam | [MS-900: Microsoft 365 Fundamentals](https://www.microsoft.com/en-us/learning/exam-MS-900.aspx) |
-| Related Certification | [Microsoft 365 Certified Fundamentals](https://www.microsoft.com/en-us/learning/m365-fundamentals.aspx) |
-| Level | Fundamentals (200) |
-| Training | <ol><li><a href="https://aka.ms/elms-MS-900.1-about">Open edX - 900.1</a></li><li><a href="https://docs.microsoft.com/en-us/learn/paths/m365-fundamentals/">Microsoft Learn</a></li></ol> |
-| Badge | <img src="../images/badge-m365-fundamentals.png" alt="M365 Fundamentals" width="100px">  |
-
 <div align="right"><a href="#technical---modern-workplace">↥ back to top</a></div>

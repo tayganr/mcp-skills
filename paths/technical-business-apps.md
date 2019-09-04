@@ -121,15 +121,3 @@
 | Badge | <img src="../images/badge-d365-fin-and-ops-supply-chain-consultant.png" alt="D365 Finance and Operations, Supply Chain Management Functional Consultant Associate" width="100px">  |
 
 <div align="right"><a href="#technical---business-applications">↥ back to top</a></div>
-
-## MB-900: Microsoft Dynamics 365 Fundamentals
-
-| Key | Value |
-| ------------- | ------------- |
-| Exam | [MB-900: Microsoft Dynamics 365 Fundamentals](https://www.microsoft.com/en-us/learning/exam-MB-900.aspx) |
-| Related Certification | [Microsoft Certified Dynamics 365 Fundamentals](https://www.microsoft.com/en-us/learning/d365-fundamentals.aspx) |
-| Level | Fundamentals (200) |
-| Training | <ol><li><a href="https://aka.ms/elms-MB-900.1-about">Open edX 900.1</a></li><li><a href="https://docs.microsoft.com/en-us/learn/paths/dyn-power-plat-bus-app-fundamentals/">Microsoft Learn</a></li></ol> |
-| Badge | <img src="../images/badge-d365-fundamentals.png" alt="D365 Fundamentals" width="100px">  |
-
-<div align="right"><a href="#technical---business-applications">↥ back to top</a></div>

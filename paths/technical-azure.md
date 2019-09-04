@@ -82,16 +82,3 @@
 | Badge | <img src="../images/badge-azure-security-engineer.png" alt="Azure Security Engineer Associate" width="100px">  |
 
 <div align="right"><a href="#technical---azure">↥ back to top</a></div>
-
-## AZ-900: Microsoft Azure Fundamentals
-
-| Key | Value |
-| ------------- | ------------- |
-| Exam | [AZ-900: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/exam-az-900.aspx) |
-| Related Certification | [Microsoft Certified Azure Fundamentals](https://www.microsoft.com/en-us/learning/azure-fundamentals.aspx) |
-| Level | Fundamentals (200) |
-| Training | <ol><li><a href="https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/">Microsoft Learn</a></li><li><a href="https://www.taygan.co/blog/2019/02/07/az-900-azure-fundamentals-exam-preparation">Study Notes</a></li></ol> |
-| Badge | <img src="../images/badge-azure-fundamentals.png" alt="Azure Fundamentals" width="100px">  |
-
-<div align="right"><a href="#technical---azure">↥ back to top</a></div>
-
