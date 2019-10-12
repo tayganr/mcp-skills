@@ -35,8 +35,6 @@ Click the link below to download the Power BI template.
 2. Paste the path from your clipboard into the prompt and click **Load**
 3. Save the Power BI report
 
-<div align="right"><a href="#how-to-create-a-partner-center-skills-report">↥ back to top</a></div>
-
 Congratulations! You have just instantied a Power BI report on top of your export from Partner Center. This will enable you to glean some immediate insights on that data as well as provide a starting point for ad-hoc analysis.
 
 <div align="right"><a href="#how-to-create-a-partner-center-skills-report">↥ back to top</a></div>
