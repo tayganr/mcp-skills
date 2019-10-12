@@ -1,7 +1,12 @@
 # Microsoft Technical Skills Enablement
 A collection of resources to empower the Microsoft community in driving technical intensity with skills.
 
-## Instructions
+## Partner Center Skills Report
+* [Create a Partner Center Skills Report](guides/02-skills-report.md)
+
+<div align="right"><a href="#microsoft-technical-skills-enablement">↥ back to top</a></div>
+
+## Technical Skills Plan
 * [Create a Technical Skills Plan](guides/01-setup-template.md)
 
 <div align="right"><a href="#microsoft-technical-skills-enablement">↥ back to top</a></div>
