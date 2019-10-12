@@ -1,9 +1,9 @@
 # How to Create a Partner Center Skills Report
 
 ## Table of Contents
-* [01 - Export a Skills Report (CSV) from Parner Center](#step-1---export-a-skills-report--csv--from-partner-center)
+* [01 - Export a Skills Report (CSV) from Parner Center](#step-1---export-a-skills-report-csv-from-parner-center)
 * [02 - Download the Power BI Template](#step-2---download-the-power-bi-template)
-* [03 - Copy the File Path of the CSV File](#step-3----copy-th-file-path-of-the-csv-file)
+* [03 - Copy the File Path of the CSV File](#step-3---copy-the-file-path-of-the-csv-file)
 * [04 - Instantiate the Power BI Report](#step-4---instantiate-the-power-bi-report)
 
 <div align="right"><a href="#how-to-create-a-technical-skills-plan">↥ back to top</a></div>

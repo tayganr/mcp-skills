@@ -1,9 +1,9 @@
 # Sales Specialist
 
 ## Table of Contents
-* [Azure](#azure)
-* [Microsoft 365](#microsoft-365)
-* [Dynamics 365](#dynamics-365)    
+* [Azure](#azure-fundamentals-az-900)
+* [Microsoft 365](#microsoft-365-fundamentals-ms-900)
+* [Dynamics 365](#dynamics-365-fundamentals-mb-900)  
 
 <div align="right"><a href="#sales-specialist">↥ back to top</a></div>
 
