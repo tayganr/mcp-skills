@@ -1,4 +1,8 @@
-# Technical - Business Applications
+---
+title: "Business Applications"
+date: 2019-10-27T13:04:23Z
+weight: 6
+---
 
 ## Table of Contents
 * [MB-200: Microsoft Dynamics 365 Customer Engagement Core](#mb-200-microsoft-dynamics-365-customer-engagement-core)
@@ -11,8 +15,6 @@
 * [MB-320: Microsoft Dynamics 365 for Finance and Operations, Manufacturing](#mb-320-microsoft-dynamics-365-for-finance-and-operations-manufacturing)
 * [MB-330: Microsoft Dynamics 365 for Finance and Operations, Supply Chain Management](#mb-330-microsoft-dynamics-365-for-finance-and-operations-supply-chain-management)
 
-<div align="right"><a href="#technical---business-applications">↥ back to top</a></div>
-
 ## MB-200: Microsoft Dynamics 365 Customer Engagement Core
 
 | Key | Value |
@@ -21,9 +23,9 @@
 | Related Certification | Part of the requirements for multiple certifications |
 | Level | Associate (300) |
 | Training | <ol><li><a href="https://aka.ms/elms-MB-200.1-about">Open edX 200.1</a></li><li><a href="https://aka.ms/elms-MB-200.2-about">Open edX 200.2</a></li><li><a href="https://aka.ms/elms-MB-200.3-about">Open edX 200.3</a></li><li><a href="https://aka.ms/elms-MB-200.4-about">Open edX 200.4</a></li><li><a href="https://docs.microsoft.com/en-us/learn/browse/?resource_type=learning%20path&products=dynamics-customer-engagement&roles=functional-consultant">Microsoft Learn</a></li></ol> |
-| Badge | <img src="../images/badge-d365-mb-200.png" alt="D365 Customer Engagement Core" width="100px">  |
+| Badge | <img src="/images/badge-d365-mb-200.png" alt="D365 Customer Engagement Core" width="100px">  |
 
-<div align="right"><a href="#technical---business-applications">↥ back to top</a></div>
+<div align="right"><a href="#table-of-contents">↥ back to top</a></div>
 
 ## MB-210: Microsoft Dynamics 365 for Sales
 
@@ -33,9 +35,9 @@
 | Related Certification | [Microsoft Certified: Dynamics 365 for Sales Functional Consultant Associate](https://www.microsoft.com/en-us/learning/d365-functional-consultant-sales.aspx) |
 | Level | Associate (300) |
 | Training | <ol><li><a href="https://aka.ms/elms-MB-210.1-about">Open edX 210.1</a></li><li><a href="https://docs.microsoft.com/en-us/learn/browse/?resource_type=learning%20path&products=dynamics-sales&roles=functional-consultant">Microsoft Learn</a></li></ol> |
-| Badge | <img src="../images/badge-d365-sales-functional-consultant.png" alt="D365 Sales Functional Consultant Associate" width="100px">  |
+| Badge | <img src="/images/badge-d365-sales-functional-consultant.png" alt="D365 Sales Functional Consultant Associate" width="100px">  |
 
-<div align="right"><a href="#technical---business-applications">↥ back to top</a></div>
+<div align="right"><a href="#table-of-contents">↥ back to top</a></div>
 
 ## MB-220: Microsoft Dynamics 365 for Marketing
 
@@ -45,9 +47,9 @@
 | Related Certification | [Microsoft Certified: Dynamics 365 for Marketing Functional Consultant Associate](https://www.microsoft.com/en-us/learning/d365-functional-consultant-marketing.aspx) |
 | Level | Associate (300) |
 | Training | <ol><li><a href="https://docs.microsoft.com/en-us/learn/browse/?resource_type=learning%20path&roles=functional-consultant&products=dynamics-marketing">Microsoft Learn</a></li></ol> |
-| Badge | <img src="../images/badge-d365-marketing-functional-consultant.png" alt="D365 Marketing Functional Consultant Associate" width="100px">  |
+| Badge | <img src="/images/badge-d365-marketing-functional-consultant.png" alt="D365 Marketing Functional Consultant Associate" width="100px">  |
 
-<div align="right"><a href="#technical---business-applications">↥ back to top</a></div>
+<div align="right"><a href="#table-of-contents">↥ back to top</a></div>
 
 ## MB-230: Microsoft Dynamics 365 for Customer Service
 
@@ -57,9 +59,9 @@
 | Related Certification | [Microsoft Certified: Dynamics 365 for Customer Service Functional Consultant Associate](https://www.microsoft.com/en-us/learning/d365-functional-consultant-customer-service.aspx) |
 | Level | Associate (300) |
 | Training | <ol><li><a href="https://aka.ms/elms-MB-230.1-about">Open edX 230.1</a></li><li><a href="https://docs.microsoft.com/en-us/learn/browse/?resource_type=learning%20path&roles=functional-consultant&products=dynamics-customer-service">Microsoft Learn</a></li></ol> |
-| Badge | <img src="../images/badge-d365-customer-service-functional-consultant.png" alt="D365 Customer Service Functional Consultant Associate" width="100px">  |
+| Badge | <img src="/images/badge-d365-customer-service-functional-consultant.png" alt="D365 Customer Service Functional Consultant Associate" width="100px">  |
 
-<div align="right"><a href="#technical---business-applications">↥ back to top</a></div>
+<div align="right"><a href="#table-of-contents">↥ back to top</a></div>
 
 ## MB-240: Microsoft Dynamics 365 for Field Service
 
@@ -69,9 +71,9 @@
 | Related Certification | [Microsoft Certified: Dynamics 365 for Field Service Functional Consultant Associate](https://www.microsoft.com/en-us/learning/d365-functional-consultant-field-service.aspx) |
 | Level | Associate (300) |
 | Training | <ol><li><a href="https://aka.ms/elms-MB-240.1-about">Open edX 240.1</a></li><li><a href="https://aka.ms/elms-MB-240.2-about">Open edX 240.2</a></li><li><a href="https://aka.ms/elms-MB-240.3-about">Open edX 240.3</a></li><li><a href="https://docs.microsoft.com/en-us/learn/browse/?resource_type=learning%20path&roles=functional-consultant&products=dynamics-field-service">Microsoft Learn</a></li></ol> |
-| Badge | <img src="../images/badge-d365-field-service-functional-consultant.png" alt="D365 Field Service Functional Consultant Associate" width="100px">  |
+| Badge | <img src="/images/badge-d365-field-service-functional-consultant.png" alt="D365 Field Service Functional Consultant Associate" width="100px">  |
 
-<div align="right"><a href="#technical---business-applications">↥ back to top</a></div>
+<div align="right"><a href="#table-of-contents">↥ back to top</a></div>
 
 ## MB-300: Microsoft Dynamics 365 Unified Operations Core
 
@@ -81,9 +83,9 @@
 | Related Certification | Part of the requirements for multiple certifications |
 | Level | Associate (300) |
 | Training | Not Available |
-| Badge | <img src="../images/badge-d365-mb-300.png" alt="D365 Unified Operations Core" width="100px">  |
+| Badge | <img src="/images/badge-d365-mb-300.png" alt="D365 Unified Operations Core" width="100px">  |
 
-<div align="right"><a href="#technical---business-applications">↥ back to top</a></div>
+<div align="right"><a href="#table-of-contents">↥ back to top</a></div>
 
 ## MB-310: Microsoft Dynamics 365 for Finance and Operations, Financials
 
@@ -93,9 +95,9 @@
 | Related Certification | [Microsoft Certified: Dynamics 365 for Finance and Operations, Financials Functional Consultant Associate](https://www.microsoft.com/en-us/learning/d365-functional-consultant-financials.aspx) |
 | Level | Associate (300) |
 | Training | <ol><li><a href="https://docs.microsoft.com/en-us/learn/browse/?resource_type=learning%20path&roles=functional-consultant&products=dynamics-finance-operations">Microsoft Learn</a></li></ol> |
-| Badge | <img src="../images/badge-d365-fin-and-ops-financials-consultant.png" alt="D365 Finance and Operations, Financials Functional Consultant Associate" width="100px">  |
+| Badge | <img src="/images/badge-d365-fin-and-ops-financials-consultant.png" alt="D365 Finance and Operations, Financials Functional Consultant Associate" width="100px">  |
 
-<div align="right"><a href="#technical---business-applications">↥ back to top</a></div>
+<div align="right"><a href="#table-of-contents">↥ back to top</a></div>
 
 ## MB-320: Microsoft Dynamics 365 for Finance and Operations, Manufacturing
 
@@ -105,9 +107,9 @@
 | Related Certification | [Microsoft Certified: Dynamics 365 for Finance and Operations, Manufacturing Functional Consultant Associate](https://www.microsoft.com/en-us/learning/d365-functional-consultant-manufacturing.aspx) |
 | Level | Associate (300) |
 | Training | <ol><li><a href="https://docs.microsoft.com/en-us/learn/browse/?resource_type=learning%20path&roles=functional-consultant&products=dynamics-finance-operations">Microsoft Learn</a></li></ol> |
-| Badge | <img src="../images/badge-d365-fin-and-ops-manufacturing-consultant.png" alt="D365 Finance and Operations, Manufacturing Functional Consultant Associate" width="100px">  |
+| Badge | <img src="/images/badge-d365-fin-and-ops-manufacturing-consultant.png" alt="D365 Finance and Operations, Manufacturing Functional Consultant Associate" width="100px">  |
 
-<div align="right"><a href="#technical---business-applications">↥ back to top</a></div>
+<div align="right"><a href="#table-of-contents">↥ back to top</a></div>
 
 ## MB-330: Microsoft Dynamics 365 for Finance and Operations, Supply Chain Management
 
@@ -117,6 +119,6 @@
 | Related Certification | [Microsoft Certified: Dynamics 365 for Finance and Operations, Supply Chain Management Functional Consultant Associate](https://www.microsoft.com/en-us/learning/d365-functional-consultant-supply-chain-management.aspx) |
 | Level | Associate (300) |
 | Training | <ol><li><a href="https://docs.microsoft.com/en-us/learn/browse/?resource_type=learning%20path&roles=functional-consultant&products=dynamics-finance-operations">Microsoft Learn</a></li></ol> |
-| Badge | <img src="../images/badge-d365-fin-and-ops-supply-chain-consultant.png" alt="D365 Finance and Operations, Supply Chain Management Functional Consultant Associate" width="100px">  |
+| Badge | <img src="/images/badge-d365-fin-and-ops-supply-chain-consultant.png" alt="D365 Finance and Operations, Supply Chain Management Functional Consultant Associate" width="100px">  |
 
-<div align="right"><a href="#technical---business-applications">↥ back to top</a></div>
+<div align="right"><a href="#table-of-contents">↥ back to top</a></div>
