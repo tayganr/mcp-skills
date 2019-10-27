@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reports on Microsoft Technical Skills</title>
+    <link>/reports/</link>
+    <description>Recent content in Reports on Microsoft Technical Skills</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Oct 2019 13:06:31 +0000</lastBuildDate>
+    
+	<atom:link href="/reports/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
