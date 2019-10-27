@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Modern Workplace on Microsoft Technical Skills</title>
-    <link>/learning-paths/modern-workplace/</link>
+    <link>https://tayganr.github.io/mcp-skills/learning-paths/modern-workplace/</link>
     <description>Recent content in Modern Workplace on Microsoft Technical Skills</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Oct 2019 13:04:34 +0000</lastBuildDate>
     
-	<atom:link href="/learning-paths/modern-workplace/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tayganr.github.io/mcp-skills/learning-paths/modern-workplace/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

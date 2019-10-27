@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Skills Report on Microsoft Technical Skills</title>
-    <link>/reports/skills-report/</link>
+    <link>https://tayganr.github.io/mcp-skills/reports/skills-report/</link>
     <description>Recent content in Skills Report on Microsoft Technical Skills</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Oct 2019 13:06:40 +0000</lastBuildDate>
     
-	<atom:link href="/reports/skills-report/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tayganr.github.io/mcp-skills/reports/skills-report/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
